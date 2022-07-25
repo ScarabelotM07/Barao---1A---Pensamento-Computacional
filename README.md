@@ -1,2 +1,1 @@
-# Barao---1A---Pensamento-Computacional
-Projeto de um site em HDML e CSS
+# Barao---1A---Pensamento-ComputacionaProjeto de um site em HDML e CSS
