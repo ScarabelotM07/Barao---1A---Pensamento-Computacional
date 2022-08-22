@@ -1,4 +1,4 @@
-# Barao---1A---Pensamento-ComputacionaProjeto de um site em HDML e CSS
+# Barao---1A---Pensamento-Computacional Projeto de um site em HDML e CSS
 ## Site em HTML e CSS
 
 ### Colégio Estadual Barão do Rio Branco 
