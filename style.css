@@ -3,5 +3,8 @@ body{
     background-color: brown;
 }
 .capa {
-    width: 100%;
+    width: 80%;
+}
+.beneficios-imagem { 
+    width: 50%;
 }
